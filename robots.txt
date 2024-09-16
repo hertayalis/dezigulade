@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://dezigulade.netlify.app/sitemap.xml
